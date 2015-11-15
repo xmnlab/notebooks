@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### PyCharm
-.idea
+.idea/*
 ### IPythonNotebook template
 # Temporary data
 .ipynb_checkpoints/
