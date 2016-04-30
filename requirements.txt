@@ -1,0 +1,12 @@
+numpy
+matplotlib
+scipy
+bokeh
+numexpr
+ipython
+jupyter
+pandas
+numba
+llvmlite
+oct2py
+
