@@ -1,0 +1,5 @@
+opencv
+jupyter
+matplotlib
+jupyter_contrib_nbextensions
+octave_kernel
