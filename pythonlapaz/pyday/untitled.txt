@@ -1,0 +1,14 @@
+SQL
+
+
+tabla: comidas
+campos: ingredientes, precio
+
+PostgreSQL
+
+campo = 1
+
+if campo == 1:
+    sql = 'SELECT {} FROM comidas'.format('ingredientes')
+else:
+    sql = 'SELECT {} FROM comidas'.format('precio')
