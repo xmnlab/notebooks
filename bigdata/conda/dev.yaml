@@ -1,0 +1,7 @@
+name: sandbox-bigdata
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - pandas
+  - jupyterlab
