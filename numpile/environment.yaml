@@ -1,0 +1,10 @@
+name: numpile
+channels:
+  - conda-forge
+  - free
+dependencies:
+  - llvmlite
+  - llvmpy
+  - jupyterlab
+  - numpy
+  - pip
